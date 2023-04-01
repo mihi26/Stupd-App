@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidPTIT</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="qu_n_l_c_ng_vi_c">Quản lý công việc</string>
+    <string name="date">Date:</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="search">Search...</string>
+</resources>
